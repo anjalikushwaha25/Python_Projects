@@ -1,0 +1,5 @@
+smartdesk.db
+chat_history.json
+tickets.json
+__pycache__/
+*.pyc
