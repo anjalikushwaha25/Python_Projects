@@ -1,0 +1,33 @@
+{
+    "expenses": [
+        {
+            "date": "12/03/2026",
+            "category": "books",
+            "description": "bought a book",
+            "amount": 456.0
+        },
+        {
+            "date": "12/3/2026",
+            "category": "travel",
+            "description": "went to delhi",
+            "amount": 678.0
+        },
+        {
+            "date": "12/3/2026",
+            "category": "eating",
+            "description": "burger",
+            "amount": 342.0
+        },
+        {
+            "date": "12/3/2026",
+            "category": "book",
+            "description": "morrie",
+            "amount": 234.0
+        }
+    ],
+    "income": [
+        25000.0,
+        12000.0,
+        10000.0
+    ]
+}
